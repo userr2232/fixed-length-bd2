@@ -1,0 +1,3 @@
+0001 Howard      Paredes Zegarra     Computacion   
+0002 Penny       Vargas Cordero      Industrial    
+0003 Sheldon     Cooper Quizpe       Mecatronica   
